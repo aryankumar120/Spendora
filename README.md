@@ -104,4 +104,12 @@ Open `http://localhost:5173` in your browser.
 - Clean, light-themed UI designed for a backend-first demo.
 
 ## Output Images
+<img width="1470" height="835" alt="1" src="https://github.com/user-attachments/assets/0becb973-12d6-44ea-ab5c-0a1e8bb2d6f0" />
+<img width="1470" height="834" alt="2" src="https://github.com/user-attachments/assets/a12efd5a-9231-41f7-89fd-01ce0026050e" />
+<img width="1470" height="834" alt="3" src="https://github.com/user-attachments/assets/253cc8ac-bc80-49ca-8630-a777969ec08d" />
+<img width="1470" height="834" alt="4" src="https://github.com/user-attachments/assets/4ad6e266-cb8f-4694-b60e-c3cfee0411db" />
+<img width="1470" height="834" alt="5" src="https://github.com/user-attachments/assets/2d04bc6f-ec3a-41ef-a544-65e7812bfdde" />
+
+
+
 
