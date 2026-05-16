@@ -2,10 +2,6 @@
 
 Spendora is an intelligent subscription spend optimization platform that demonstrates a full backend-first workflow: user management, subscription tracking, Redis caching, background jobs, and asynchronous optimization reports. This repository contains a Node/Express backend and a React (Vite) frontend that work together end-to-end.
 
-# Workig Video Demo
-
-https://github.com/user-attachments/assets/a9fb0252-f276-4b1c-863c-446dff0e9726
-
 ## What This Project Does
 
 - Enables users to create and manage recurring subscriptions such as streaming services, SaaS tools, and utilities.
